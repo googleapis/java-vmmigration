@@ -27,13 +27,13 @@ If you are using Maven, add this to your pom.xml file:
 If you are using Gradle without BOM, add this to your dependencies:
 
 ```Groovy
-implementation 'com.google.cloud:google-cloud-vmmigration:1.3.5'
+implementation 'com.google.cloud:google-cloud-vmmigration:1.5.0'
 ```
 
 If you are using SBT, add this to your dependencies:
 
 ```Scala
-libraryDependencies += "com.google.cloud" % "google-cloud-vmmigration" % "1.3.5"
+libraryDependencies += "com.google.cloud" % "google-cloud-vmmigration" % "1.5.0"
 ```
 
 ## Authentication
